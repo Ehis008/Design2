@@ -1,0 +1,88 @@
+{
+  "data": [
+    {
+      "id": 1,
+      "name": " Adokwu Michael",
+      "age": 26,
+      "gender": "male",
+      "education": "B.Eng",
+      "imageURL": "assets/images/img1.jpg"
+    },
+
+    {
+      "id": 2,
+      "name": "John Doe",
+      "age": 24,
+      "gender": "male",
+      "education": "B.Sc",
+      "imageURL": "assets/images/img2.jpg"
+    },
+
+    {
+      "id": 3,
+      "name": " Florence Ogur",
+      "age": 26,
+      "gender": "female",
+      "education": "B.Tech",
+      "imageURL": "assets/images/img3.jpg"
+    },
+
+    {
+      "id": 4,
+      "name": "Benjamin Cook",
+      "age": 26,
+      "gender": "male",
+      "education": "B.Eng",
+      "imageURL": "assets/images/img4.jpg"
+    },
+
+    {
+      "id": 5,
+      "name": "Johnson Clark",
+      "age": 26,
+      "gender": "male",
+      "education": "B.Edu",
+      "imageURL": "assets/images/img5.jpg"
+    },
+    {
+      "id": 6,
+      "name": "John Stone",
+      "age": 26,
+      "gender": "male",
+      "education": "B.Edu",
+      "imageURL": "assets/images/img6.png"
+    },
+    {
+      "id": 7,
+      "name": "Michael Ekene Okoh",
+      "age": 26,
+      "gender": "male",
+      "education": "B.Edu",
+      "imageURL": "assets/images/img6.png"
+    },
+    {
+      "id": 8,
+      "name": "Oyilo Moses",
+      "age": 26,
+      "gender": "male",
+      "education": "B.Eng",
+      "imageURL": "assets/images/img6.png"
+    },
+    {
+      "id": 9,
+      "name": "Anselem Judith",
+      "age": 26,
+      "gender": "Female",
+      "education": "B.Eng",
+      "imageURL": "assets/images/img6.png"
+    },
+    {
+      "id": 10,
+      "name": "Ogbu David",
+      "age": 26,
+      "gender": "male",
+      "education": "B.Eng",
+      "imageURL": "assets/images/img6.png"
+    }
+  ]
+}

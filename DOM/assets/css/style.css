@@ -1,0 +1,16 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+
+}
+ .wrapper{
+    padding: 12px;
+    background:red;
+    color:white;
+    height:auto;
+    width:100%
+ }
+ .text{
+    margin: 20px ;
+ }
